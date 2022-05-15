@@ -1,0 +1,336 @@
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\awss\Downloads\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\DELL\Downloads\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn (6)\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-4\LinkedIn-3\LinkedIn-2\LinkedIn\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-5\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-5-2\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn_4-4-2022(1)\LinkedIn-6\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-6-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-66-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-13-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-14-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-15-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\sajam\Desktop\linkedin final project 2\LinkedIn_4-16-2022(1)\LinkedIn_4-11-2022(1)\LinkedIn_4-16-2022(1)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.deps.json
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.json
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.runtimeconfig.dev.json
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.dll
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\bin\Debug\netcoreapp3.1\LinkedIn.core.pdb
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfoInputs.cache
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.AssemblyInfo.cs
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.csproj.CopyComplete
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.dll
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.pdb
+C:\Users\MSI\Downloads\LinkedIn17-4(6amsunday)\LinkedIn\LinkedIn.infra\obj\Debug\netcoreapp3.1\LinkedIn.infra.genruntimeconfig.cache
